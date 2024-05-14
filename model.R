@@ -1,5 +1,5 @@
 source("bedcount.R")
-source("model.R")
+source("resources.R")
 
 #Read City A and B
 cA <- read.csv("cityA.csv")
